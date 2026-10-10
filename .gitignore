@@ -1,5 +1,6 @@
 # Kaggle data (download separately, see README)
 data/
+*.zip
 
 # Generated artefacts
 my_models/

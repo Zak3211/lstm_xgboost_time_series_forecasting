@@ -1,4 +1,5 @@
-# Versions the notebook was last run with (Python 3.13)
+# Versions installed when the notebook was last opened (Python 3.13).
+# Cached models are Keras 2 SavedModels: see README for tf-keras workaround.
 pandas==3.0.0
 numpy==2.4.1
 scikit-learn==1.8.0
