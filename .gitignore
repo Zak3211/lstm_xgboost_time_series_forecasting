@@ -1,0 +1,13 @@
+# Kaggle data (download separately, see README)
+data/
+
+# Generated artefacts
+my_models/
+predictions/
+*.keras
+submission.csv
+
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
+.venv/
